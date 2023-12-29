@@ -113,7 +113,15 @@ nav ul li a:hover::after {
 .tab-titles {
     display: flex;
     margin: 20px 0 40px;
+    
 }
+
+.tab-titles button {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+  }
+  
 
 .tab-links {
     margin-right: 50px;
